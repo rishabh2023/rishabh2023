@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishabh Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh2023&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh2023" /> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on *React Projects*
 
-- 🌱 I’m currently learning *React-Native*
+- 🌱 I’m currently learning *Management of large applications*
 
-- 💬 Ask me about *React , Android , WebApps*
+- 💬 Ask me about *React , WebApps*
 
 - 📫 How to reach me *rishabhsahu1607@gmail.com*
 
